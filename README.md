@@ -20,7 +20,7 @@ Leverage computer vision for  object counting functionality using opencv for acc
 
 We trained dataset of 5601 fruit images on MobilenetV2 model .The images were annotated based on shelf life that we observed over the time span taken for a fresh fruit till it get rotten for various fruits like apple,orange,melon,banana and so on.It predicts the classification of fruit and its estimated shelf life.
 ## Product Detail Extraction (Task 4):
-**Github link -->  https://github.com/riyakush0611/image_extraction**
+**Github link -->  *https://github.com/Priya-161/Image_Extraction*
 
 Demonstrates the fine-tuning of the Qwen2-VL model on a custom dataset for OCR extraction tasks. The objective is to extract important product information such as:
 Brand Name,  Manufacturing Details ,Category ,Weight,Volume .The model is optimized to work with product images, where it automatically identifies and extracts this textual information.
