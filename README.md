@@ -6,7 +6,7 @@ The Smart Product Analysis Dashboard is a comprehensive quality control solution
 
 **Features:**
 ## Manufacturing & Expiry Extraction (Task 1):
-**Github link ---> https://github.com/Kanakt326/mexp**
+**Github link ---> *https://github.com/Priya-161/OCR*
 
 Extracts manufacturing and expiry date of products packaging using paddleocr.Helps  manage inventory more efficiently by flagging soon-to-expire products, enabling proactive restocking and promotions.
 
