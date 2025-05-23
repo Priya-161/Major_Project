@@ -1,4 +1,4 @@
-# Flipkart_robotics_6.0 
+# Inventory Control and Automation System
 Project Title: "SmartVision: AI-Powered inventory management for eCommerce"
 ## You can check here ----> https://robotics-teamyuktika.netlify.app/
 # "SmartVision: AI-Powered inventory management for eCommerce"
